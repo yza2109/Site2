@@ -1,0 +1,20 @@
+* {
+    padding: 0px
+    margin: 0px
+}
+
+body {
+    background-color:aqua
+    height: 100%;
+
+
+    .capa {
+        width: 100%;
+        object-fit: cover;
+        height: 400;/*mudar*/
+    }
+    .inforHeader{
+        padding-top: 15px;
+        background-color: azure;
+    }
+}
